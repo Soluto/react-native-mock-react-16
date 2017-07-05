@@ -1,3 +1,9 @@
+IMPORTANT
+=======
+This is a temporary repository, it was copied from the original react-native-mock repo becuase it currently does not support react 16
+
+Usage is at your own risk (not all features are tested) Once react-native-mock supports react 16 this repo should not be used!
+
 # react-native-mock [![Build Status](https://travis-ci.org/RealOrangeOne/react-native-mock.svg?branch=master)](https://travis-ci.org/RealOrangeOne/react-native-mock)
 
 [![Join the chat at https://gitter.im/RealOrangeOne/react-native-mock](https://badges.gitter.im/RealOrangeOne/react-native-mock.svg)](https://gitter.im/RealOrangeOne/react-native-mock?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
