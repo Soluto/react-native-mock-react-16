@@ -1,0 +1,4 @@
+{
+    "plugins": ["transform-react-display-name"],
+    "presets": ["airbnb", "react-native"]
+}
