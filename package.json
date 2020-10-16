@@ -47,7 +47,7 @@
   },
   "dependencies": {
     "babel-plugin-transform-react-display-name": "^6.25.0",
-    "create-react-class": "^15.5.1",
+    "create-react-class": "^15.7.0",
     "cubic-bezier": "^0.1.2",
     "invariant": "^2.2.1",
     "keymirror": "^0.1.1",
